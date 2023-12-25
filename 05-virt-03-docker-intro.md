@@ -131,4 +131,6 @@ WorkingDir /usr/share/nginx/html
 Created 2023-12-25T14:02:42.678178459Z
 Driver overlay2
 
+
+
 .6 После удаления файла docker-compose.yaml, docker compose находит контейнеры, принадлежащие другому проекту с тем же именем. 
